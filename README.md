@@ -1,8 +1,9 @@
 "# pythonstudy" 
 ----------------------------Github commands------------
-cd 
-echo "print('New feature')" > feature.py
-git add ----.py
-git commit -m "----.py"
-git push
---
+cd -------
+git init
+git remote add origin https:-------
+git add .
+git commit -m "First upload"
+git branch -M main
+git push -u origin main
